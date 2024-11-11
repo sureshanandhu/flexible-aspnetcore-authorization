@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Components.WebAssembly.Authentication.Internal;
 using System.Security.Claims;
 using System.Text.Json;
+using System.Text.Json;
 
 namespace FlexibleAuth.Client.Authorization;
 
